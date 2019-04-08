@@ -1,5 +1,10 @@
 # Pansexual Pride in GitHub Repository Languages
 
+If GitHub ever change language colors, it should be like this:
+
+![](screenshot.png)
+
+
 ## TODO
 
 Develop some code that makes sense xD
